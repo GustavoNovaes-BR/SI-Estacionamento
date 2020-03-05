@@ -1,3 +1,3 @@
-#Nessa pasta apenas fontes
+# Nessa pasta apenas fontes
 
-#Exemplo: .java, .c, .sql
+# Exemplo: .java, .c, .sql
