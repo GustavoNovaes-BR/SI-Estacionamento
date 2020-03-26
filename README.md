@@ -1,3 +1,5 @@
+# Ler antes de editar
+
 # SI-Estacionamento
 
 # Projeto de infomatização da gestão de entrada, saída e permanência de veículos em estacionamentos
